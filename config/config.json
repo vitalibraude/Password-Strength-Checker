@@ -1,0 +1,7 @@
+{
+  "min_length": 8,
+  "require_special": true,
+  "require_uppercase": true,
+  "require_digits": true,
+  "blacklist_file": "examples/blacklist.txt"
+}
